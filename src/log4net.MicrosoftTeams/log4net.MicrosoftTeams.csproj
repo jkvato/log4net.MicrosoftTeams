@@ -10,6 +10,8 @@
     <PackageTags>log4net;MicrosoftTeams;appender</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <AssemblyVersion>1.2.1.0</AssemblyVersion>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>C:\Cloud\j.taylor\OneDrive - Hollywood Delivery Service\HDS\Certificates\hdscodesign.pfx</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
